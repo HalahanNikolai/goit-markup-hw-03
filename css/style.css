@@ -39,10 +39,20 @@ body {
 ul {
   list-style-type: none;
 }
-
+/* ! ***************************** Flex ******************************* */
 img {
   display: block;
 }
+.hdr-container {
+  border-bottom: 1px solid #e7e9fc;
+  display: flex;
+}
+.container {
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
 .navig-menu {
 }
 .logo {
