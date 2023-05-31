@@ -317,6 +317,8 @@ footer {
   list-style: none;
   font-style: normal;
   display: flex;
+  gap: 40px;
+  padding: 24px 0;
 }
 .adr-list {
   font-style: normal;
@@ -353,4 +355,5 @@ footer {
 /*? ****************** FOOTER  ******************/
 .footer-bg {
   background-color: var(--foot-color-bckgrnd);
+  padding: 100px 0;
 }
