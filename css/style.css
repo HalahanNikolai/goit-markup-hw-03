@@ -241,7 +241,9 @@ img {
   color: var(--notmain-color);
 }
 .about-us {
+  padding: 120px 0;
 }
+
 .studio-main-text-two {
   /* font-weight: 64px; */
   font-size: 16px;
