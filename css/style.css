@@ -74,7 +74,10 @@ img {
 .logo-part {
   color: #2e2f42;
 }
-
+.logo-futer {
+  display: inline-block;
+  margin-bottom: 16px;
+}
 .nav-link {
   text-decoration: none;
   font-weight: 500;
