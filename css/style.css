@@ -280,8 +280,8 @@ img {
 
 .chym_zaymaemos {
   display: flex;
-  justify-content: space-between;
-  /* gap: 24px; */
+  /* justify-content: space-between; */
+  gap: 24px;
 }
 /*  ************************ sect 4 ********************************* */
 .stud-team {
