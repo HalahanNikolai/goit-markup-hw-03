@@ -284,15 +284,21 @@ img {
   gap: 24px;
 }
 /*  ************************ sect 4 ********************************* */
+.nashaKomanda {
+  gap: 24px;
+}
+
+.stud-sect-four-bgrnd {
+  background-color: #ffffff;
+  width: calc((100% - 72px) / 4);
+}
+.stud-team-name-work {
+}
 .stud-team {
   background-color: #f4f4fd;
 }
 
 .container-stud-team {
-}
-
-.stud-sect-four-bgrnd {
-  background-color: #ffffff;
 }
 
 .text-names-pipls {
@@ -373,10 +379,6 @@ footer {
 /* ************************************************vvvvvvvvvvvvvv******************************************* */
 /* .studio-pictures1 */
 
-.nashaKomanda {
-  margin: 2%;
-}
-
 /* *************************************************** PORTFOLIO ******************************************** */
 .buttons-filtres {
 }
@@ -389,7 +391,7 @@ footer {
   list-style: none;
   font-style: normal;
   display: flex;
-  gap: 40px;
+  /* gap: 40px; */
   padding: 24px 0;
 }
 .adr-list {
