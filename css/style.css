@@ -69,6 +69,7 @@ img {
   margin: 0 auto;
   padding: 0 15px;
   display: flex;
+  display: inline-block;
 }
 
 .navig-menu {
@@ -93,7 +94,7 @@ img {
   color: #2e2f42;
 }
 .logo-futer {
-  display: inline-block;
+  /* display: inline-block; */
   margin-bottom: 16px;
 }
 .nav-link {
