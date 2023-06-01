@@ -279,8 +279,9 @@ img {
 }
 
 .chym_zaymaemos {
-  margin: 2%;
-  gap: 24px;
+  display: flex;
+  justify-content: space-between;
+  /* gap: 24px; */
 }
 /*  ************************ sect 4 ********************************* */
 .stud-team {
