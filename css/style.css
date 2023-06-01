@@ -217,7 +217,7 @@ img {
   list-style: none;
   display: flex;
   gap: 24px;
-  width: calc((100 - 24px * 3) / 4);
+  width: calc((100% - 24px * 3) / 4);
 }
 .studio-main-text-one {
   font-weight: 900;
