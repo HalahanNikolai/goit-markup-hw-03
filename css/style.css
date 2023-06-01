@@ -387,6 +387,13 @@ footer {
 .pics {
 }
 /*? ****************** HEADER  ******************/
+.heder-list {
+  list-style: none;
+  font-style: normal;
+  display: flex;
+  gap: 40px;
+  padding: 24px 0;
+}
 .list {
   list-style: none;
   font-style: normal;
