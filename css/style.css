@@ -120,7 +120,9 @@ img {
 .nav-link:focus {
   color: #2196f3;
 }
-
+.header-adr-list {
+  gap: 40px;
+}
 /* .nav-txt-studio {
   color: #2196f3;
 }
@@ -403,6 +405,7 @@ footer {
 }
 .adr-list {
   font-style: normal;
+  margin-left: auto;
 }
 .prtf-prjkt-pict.link {
   text-decoration: none;
