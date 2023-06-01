@@ -264,8 +264,24 @@ img {
 
 /*  ************************ sect 3  ********************************* */
 .stud-work {
+  padding-bottom: 120px;
 }
 
+.studio-main-text-stud {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: var(--stud-color-sect-work);
+  text-transform: capitalize;
+  margin-bottom: 72px;
+}
+
+.chym_zaymaemos {
+  margin: 2%;
+  gap: 24px;
+}
 /*  ************************ sect 4 ********************************* */
 .stud-team {
   background-color: #f4f4fd;
@@ -278,15 +294,6 @@ img {
   background-color: #ffffff;
 }
 
-.studio-main-text-stud {
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.11;
-  text-align: center;
-  letter-spacing: 0.02em;
-  color: var(--stud-color-sect-work);
-  text-transform: capitalize;
-}
 .text-names-pipls {
   font-weight: 500;
   font-size: 20px;
@@ -364,9 +371,6 @@ footer {
 }
 /* ************************************************vvvvvvvvvvvvvv******************************************* */
 /* .studio-pictures1 */
-.chym_zaymaemos {
-  margin: 2%;
-}
 
 .nashaKomanda {
   margin: 2%;
