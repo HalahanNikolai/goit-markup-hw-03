@@ -262,12 +262,18 @@ img {
   padding-bottom: 60px;
 }
 
-/*  ************************ sect 3 ********************************* */
+/*  ************************ sect 3  ********************************* */
 .stud-work {
 }
+
+/*  ************************ sect 4 ********************************* */
 .stud-team {
   background-color: #f4f4fd;
 }
+
+.container-stud-team {
+}
+
 .stud-sect-four-bgrnd {
   background-color: #ffffff;
 }
