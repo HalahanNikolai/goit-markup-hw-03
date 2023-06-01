@@ -95,6 +95,7 @@ img {
 }
 .footer-contact-wrap {
   display: inline-block;
+  margin-bottom: 16px;
 }
 /* .logo-footer {
   display: inline-block;
