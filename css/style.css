@@ -208,13 +208,16 @@ img {
   text-decoration: none;
 }
 
-/* ********************************************  main (studio) *****************************************/
+/* ********************************************  main sect 2 (studio) *****************************************/
 .stud_main_sect_stud {
   background-color: #2e2f42;
 }
 
 .about-us-list {
   list-style: none;
+  display: flex;
+  gap: 24px;
+  width: calc((100 - 24px * 3) / 4);
 }
 .studio-main-text-one {
   font-weight: 900;
@@ -247,7 +250,13 @@ img {
   /* text-transform: uppercase;
   color: #434455; */
 }
+.container-sect-two {
+  display: flex;
+  padding-top: 120px;
+  padding-bottom: 60px;
+}
 
+/*  ************************ sect 3 ********************************* */
 .stud-work {
 }
 .stud-team {
