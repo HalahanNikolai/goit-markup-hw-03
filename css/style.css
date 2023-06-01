@@ -87,13 +87,14 @@ img {
   color: #4d5ae5;
   text-transform: uppercase;
   margin-right: 76px;
+  display: inline-block;
 }
 
 .logo-part {
   color: #2e2f42;
 }
 .logo-futer {
-  display: inline-block;
+  /* display: inline-block; */
   margin-bottom: 16px;
 }
 .nav-link {
