@@ -389,6 +389,11 @@ footer {
 /* .studio-pictures1 */
 
 /* *************************************************** PORTFOLIO ******************************************** */
+.prtf-section-container {
+  padding-top: 96px;
+  padding-bottom: 120px;
+}
+
 .buttons-filtres {
 }
 
