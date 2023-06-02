@@ -246,10 +246,13 @@ img {
   color: var(--notmain-color);
   margin-bottom: 8px;
 }
+/*  ************************ sect 2  ********************************* */
 .about-us {
   padding: 120px 0;
 }
-
+.about-item {
+  width: calc((100% - 72px) / 4);
+}
 .studio-main-text-two {
   font-size: 16px;
   line-height: 1.5;
