@@ -389,15 +389,7 @@ footer {
 /* .studio-pictures1 */
 
 /* *************************************************** PORTFOLIO ******************************************** */
-.prtf-section-container {
-  padding-top: 96px;
-  padding-bottom: 120px;
-}
 
-.buttons-filtres {
-}
-
-/* .pic-box1  */
 .pics {
 }
 /*? ****************** HEADER  ******************/
@@ -431,8 +423,21 @@ footer {
 }
 
 /*? ****************** MAIN  ******************/
+.prtf-section-container {
+  padding-top: 96px;
+  padding-bottom: 120px;
+}
+
+.buttons-filtres {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  margin-bottom: 72px;
+}
 .section-btn {
   background-color: var(--main-light-color);
+  padding-top: 96px;
+  padding-bottom: 120px;
 }
 
 .prtf-prjkt-pict {
