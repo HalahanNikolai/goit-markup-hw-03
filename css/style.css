@@ -251,12 +251,10 @@ img {
 }
 
 .studio-main-text-two {
-  /* font-weight: 64px; */
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  /* text-transform: uppercase;
-  color: #434455; */
+  text-align: center;
 }
 .container-sect-two {
   display: flex;
@@ -296,6 +294,7 @@ img {
   border-radius: 0px 0px 4px 4px;
 }
 .stud-team-name-work {
+  padding: 32px 16px;
 }
 .stud-team {
   background-color: #f4f4fd;
