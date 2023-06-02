@@ -281,10 +281,12 @@ img {
   margin-bottom: 72px;
 }
 
-.chym_zaymaemos {
+.chym-zaymaemos {
   display: flex;
   /* justify-content: space-between; */
   gap: 24px;
+}
+.chym-zaymaemos-list {
 }
 /*  ************************ sect 4 ********************************* */
 .nasha-komanda {
