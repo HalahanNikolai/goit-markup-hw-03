@@ -181,7 +181,7 @@ img {
   border: 1px solid var(--prtf-color-btn);
   border-radius: 4px;
 }
-
+/* ! !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
 .btn-prtf {
   font-family: inherit;
   font-weight: 500;
@@ -454,7 +454,13 @@ footer {
 .proj-pictures.list {
   list-style: none;
 }
-
+.proj-pictures {
+  flex-wrap: wrap;
+  column-gap: 24px;
+  row-gap: 48px;
+}
+.prtf-container-list {
+}
 /* .pic-list{
   background-color:#2e2f42; 
 } */
