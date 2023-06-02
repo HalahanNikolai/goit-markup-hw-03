@@ -14,6 +14,7 @@
   --stud-color-sect-team: #2e2f42;
   --prtf-color-pic-text2: #2e2f42;
   --prtf-color-pic-text3: #434455;
+  --prtf-color-btn: #e7e9fc;
 }
 /*Global styles*/
 body {
@@ -176,6 +177,9 @@ img {
 /************************************************************************************************************* */
 
 .btn-list-item {
+  padding: 12px 24px;
+  border: 1px solid var(--prtf-color-btn);
+  border-radius: 4px;
 }
 
 .btn-prtf {
@@ -194,6 +198,7 @@ img {
   background: #404bbf;
   cursor: pointer;
   color: #ffffff;
+  border: 1px solid transparent;
 }
 .pic-text-prtf-list {
   /* font-style: normal; */
