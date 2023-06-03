@@ -198,6 +198,8 @@ img {
   cursor: pointer;
   background-color: #f4f4fd;
   padding: 12px 24px;
+  border: 1px solid var(--prtf-color-btn);
+  border-radius: 4px;
 }
 
 .btn-prtf:hover,
